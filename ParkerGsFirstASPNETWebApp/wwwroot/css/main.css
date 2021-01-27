@@ -1,0 +1,54 @@
+﻿body {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-content: center;
+    color: darkslategray;
+}
+
+label {
+    font-size: 15px;
+    width: 150px;
+    display: inline-block;
+}
+
+img {
+    width: 300px;
+    border: solid;
+    border-color: lightslategray;
+}
+
+.caption {
+    font-size: 10px;
+    margin-top: 1px;
+}
+
+.grade_calc .grade_input {
+    width: 30px;
+}
+
+.grade_sec {
+    background-color:lightslategray;
+    display:inline-block;
+    padding: 20px;
+    color: white;
+}
+
+h1 {
+    background-color:lightslategray;
+    display:inline-block;
+    padding: 20px;
+    color: white;
+    
+}
+
+.desc {
+    display: inline-block;
+    width: 500px;
+    
+}
+
+.footer {
+    text-align:center;
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Jdh3otZJLR919If/qT9B9HQEKo991gpI1ARib7xvmwSdCXN48oIyNHkKFkLjw+LBCnC7qHUD1jBm6pL1VBiaQ==",
+  "success": true,
+  "projectFilePath": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/parkergunnell/.nuget/packages/odetocode.usenodemodules/3.0.0/odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
