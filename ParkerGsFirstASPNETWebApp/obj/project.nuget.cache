@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9Jdh3otZJLR919If/qT9B9HQEKo991gpI1ARib7xvmwSdCXN48oIyNHkKFkLjw+LBCnC7qHUD1jBm6pL1VBiaQ==",
+  "dgSpecHash": "fOotIsqveM/wU9Sb9Ms3Syv4syynUEE+ezhGAs1F6o4ctGXdS+9NvgRzdcc0wZUM1/ICbOceKU632YuICSNSEg==",
   "success": true,
-  "projectFilePath": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp.csproj",
+  "projectFilePath": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/Assignment2_413/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp.csproj",
   "expectedPackageFiles": [
     "/Users/parkergunnell/.nuget/packages/odetocode.usenodemodules/3.0.0/odetocode.usenodemodules.3.0.0.nupkg.sha512"
   ],

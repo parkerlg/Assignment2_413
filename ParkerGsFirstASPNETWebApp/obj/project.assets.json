@@ -50,11 +50,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp.csproj",
+      "projectUniqueName": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/Assignment2_413/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp.csproj",
       "projectName": "ParkerGsFirstASPNETWebApp",
-      "projectPath": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp.csproj",
+      "projectPath": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/Assignment2_413/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp.csproj",
       "packagesPath": "/Users/parkergunnell/.nuget/packages/",
-      "outputPath": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/ParkerGsFirstASPNETWebApp/obj/",
+      "outputPath": "/Users/parkergunnell/Projects/ParkerGsFirstASPNETWebApp/Assignment2_413/ParkerGsFirstASPNETWebApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/parkergunnell/.config/NuGet/NuGet.Config"
